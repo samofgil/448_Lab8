@@ -18,10 +18,7 @@ body
     background-color: #202020;
     color: #63BBF2;
     font-family: verdana;
-
-    background-image: url(bg.jpeg);
-    background-size: 100%;
-
-    background-attachment: fixed;
-
+    border-style: dotted;
+    border-radius: 50pt;
+    border-width: 1pt;
 }
